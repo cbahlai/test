@@ -1,12 +1,4 @@
-##Meta Résumé
-
-**GOAL:** This exercise will help you collect and archive a short-list of activities from your fellowship. It'll be helpful for us to keep track of all your projects, and for you to point to significant experience from your past year of work. Here is [an example of a fellowship project/event](https://github.com/auremoser/fellowship/blob/master/projects/projects.md) log, which you might also adapt should the following format not suit you.
-
-**FORMAT:** Markdown or text document
-
-**TIME TO COMPLETE:** 30 mins - 1 hour.
-
-**TECHNOLOGY:** Your favorite text editor or Markdown viewer. Record and share your findings in your GitHub repository.
+##Meta Résumé For Mozilla Science Felloship
 
 **INSTRUCTIONS**
 
@@ -16,43 +8,73 @@ Copy the format below into your own text file (.txt) or markdown file (.md) with
 
 Fill out the bracketed/all-caps terms with your details.
 
-###[NAME] 
-###[AFFILIATION]
-###[CONTACT INFO]
+###Christie Bahlai
+###Michigan State University
+###twitter/skype/github @cbahlai, email cbahlai -at- msu -dot- edu
 
 As part of the 2015 Mozilla Fellows for Science program, I completed/participated in the following: 
 
 #### EVENTS
 
-Event | Location | Date | Role
+Event | Location | Date | Role 
 ----- | -------- | ---- | -----
-[CONFERENCE 1]() | PLACE  | DATE | Attendee/Speaker/Organizer
-[MEETUP 1]() | PLACE | DATE | Attendee/Speaker/Organizer
+[Mozilla Science Lab Onboarding]() | New York, NY, USA  | 2015-10 | Attendee
+[Mozfest 2015]() | London, UK  | 2015-11 | Attendee/Helper
+[Entomological Society of America Annual Meeting]() | Minneapolis, MN, USA | 2015-11 | Speaker
+[Mozilla Working Open Workshop]() | Berlin, DE | 2016-02 | Organizer
+[Mozilla Work Week #1]() | Berlin, DE  | 2016-02 | Participant
+[GET Conference]() | Boston, MA, USA  | 2016-04 | Attendee
+[LTER Science Council]() | Santa Barbara, CA, USA | 2016-05 | Speaker
+[Mozilla Work Week #2]() | East Lansing, MI, USA | 2016-05 | Organizer
+[Meeting with KBS information managers]() | Hickory Corners, MI, USA | 2016-05 | Organizer
+[Mozilla All Hands]() | London, UK  | 2016-06 | Participant
+[Mozilla Work Week #3]() | Nairobi, Kenya  | 2016-07 | Participant
+[Ecological Society of America]() | Ft. Lauderdale, FL, USA  | 2016-08 | Speaker
+[Kellogg Biological Station Long Term Ecological Research All Scientists Meeting]() | Hickory Corners, MI, USA  | 2016-09 | Speaker/Organizer
+[International Long Term Ecological Research Open Science Meeting]() | Skukuza, South Africa  | 2016-10 | Speaker
+[Mozfest 2016]() | London, UK  | 2016-10 | Attendee/Helper
 
 #### TALKS
 
-* TALK 1; [link to talk](); [link to slides]()
-* TALK 2; [link to talk](); [link to slides]()
+* *Entangling the map: adventures in that fuzzy space between art and science*. Geojournews Conference. June 2016; [link to talk](); [link to slides]()
+
 
 #### TRAININGS
-* TRAINING 1; [link to talk]()
-* TRAINING 2; [link to talk]()
+
+* Working Open Workshop, Berlin; [link to talk](https://github.com/joeyklee/working-open-workshop)
+
+
 
 #### BLOGS
-* BLOG 1; [link to blog]()
-* BLOG 2; [link to blog]()
+* Open science is a political issue; [link to blog](https://practicaldatamanagement.wordpress.com/2015/09/29/open-science-is-a-political-issue/)
+* Spreading the open science love like it’s my job because it is my job; [link to blog](https://practicaldatamanagement.wordpress.com/2015/10/21/spreading-the-open-science-love-like-its-my-job-because-it-is-my-job/)
+* Course description for The Open Science and Reproducible Research course (for bug counters + people that count other things too); [link to blog](https://practicaldatamanagement.wordpress.com/2015/10/26/course-description-for-the-open-science-and-reproducible-research-course-for-bug-counters-people-that-count-other-things-too/)
+* The Open Science and Reproducible Research course, Diversity in science, and other happenings [link to blog](https://practicaldatamanagement.wordpress.com/2015/12/01/the-open-science-and-reproducible-research-course-diversity-in-science-and-other-happenings/)
+* Ready, set, TEACH; [link to blog](https://practicaldatamanagement.wordpress.com/2016/01/04/ready-set-teach/)
+* A fundamental difference of opinion; [link to blog](https://practicaldatamanagement.wordpress.com/2016/01/22/a-fundamental-difference-of-opinion/)
+* A book for all: Data Management for Researchers by Briney; [link to blog](https://practicaldatamanagement.wordpress.com/2016/03/07/a-book-for-all-data-management-for-researchers-by-briney/)
+* Why the heck aren’t research papers free?; [link to blog](https://practicaldatamanagement.wordpress.com/2016/03/15/why-the-heck-arent-research-papers-free/)
+* Passive crowdsourcing- finding the data that people don’t know they’re creating; [link to blog](https://practicaldatamanagement.wordpress.com/2016/06/01/passive-crowdsourcing-finding-the-data-that-people-dont-know-theyre-creating/)
+* Open Sourcing my fellowship app; [link to blog](https://practicaldatamanagement.wordpress.com/2016/06/20/open-sourcing-my-fellowship-app/)
+* Reflections: My ride on the Mozilla Fellow Ship; [link to blog](https://practicaldatamanagement.wordpress.com/2016/06/22/reflections-my-ride-on-the-mozilla-fellow-ship/)
+* Some Mozilla Science Fellowship FAQ; [link to blog](https://practicaldatamanagement.wordpress.com/2016/07/01/some-mozilla-science-fellowship-faq/)
+* 
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-NAME | JS/D3  | [LINK](https://github.com/mozilla/opennews-onboarding) | SOME DESCRIPTION
-NAME 2 | D3 | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+THIMMI | Arduino  | [LINK](https://github.com/ubc-micromet/TIHMMI) | The Temperature Humidity Infrared Mobile Mapping Instrument - an opensource mobile temperature monitoring kit for the urban climate community and beyond.
 
 #### CONNECTIONS
 I met with or made significant connections with the following organizations and people:
 
-* PERSON 1
-* PERSON 2
-* ORGANIZATION
-* INSTITUTION
-* GROUP
+* people
+* people
+
+* Event:
+	* 
+	*
+	*
+	*
+	* 
+
