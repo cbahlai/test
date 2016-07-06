@@ -52,7 +52,6 @@ Event | Location | Date | Role
 * Open Sourcing my fellowship app; [link to blog](https://practicaldatamanagement.wordpress.com/2016/06/20/open-sourcing-my-fellowship-app/)
 * Reflections: My ride on the Mozilla Fellow Ship; [link to blog](https://practicaldatamanagement.wordpress.com/2016/06/22/reflections-my-ride-on-the-mozilla-fellow-ship/)
 * Some Mozilla Science Fellowship FAQ; [link to blog](https://practicaldatamanagement.wordpress.com/2016/07/01/some-mozilla-science-fellowship-faq/)
-* 
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
@@ -102,8 +101,5 @@ I met with or made significant connections with the following organizations and 
 	* Richard Smith-Unna
 	* Joey Lee
 	* Jason Bobe
-	*
-	*
-	*
-	* 
+
 
