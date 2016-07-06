@@ -36,12 +36,14 @@ Event | Location | Date | Role
 
 #### TALKS
 
-* *Entangling the map: adventures in that fuzzy space between art and science*. Geojournews Conference. June 2016; [link to talk](); [link to slides]()
-
+* *Open data and data reuse plans.* Working Open Workshop. February 2016; [link to slides]()
+* *Opening the field: project based learning for the next generation of ecologists.* Michigan State University. May 2016; [link to slides](https://docs.google.com/presentation/d/1vzCDqYf7YjcCDnD0rtz4Mwemf1lOP6yjx_OANiMKJJM/edit?usp=sharing)
+* *The Open Science and Reproducible Research Course.* Ecological Society of America Meeting. August 2016; [link to slides]() *upcoming*
+* *Project-based training in reproducible research using population data produced by LTER sites.* International Long Term Ecological Research Open Science Meeting. October 2016; [link to slides]() *upcoming*
 
 #### TRAININGS
 
-* Working Open Workshop, Berlin; [link to talk](https://github.com/joeyklee/working-open-workshop)
+* The Open Science and Reproducible reseach course; [link to materials](https://github.com/cbahlai/OSRR_course)
 
 
 
