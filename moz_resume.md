@@ -1,12 +1,4 @@
-##Meta Résumé For Mozilla Science Felloship
-
-**INSTRUCTIONS**
-
-Go through each of the following sections and record what activities/events/projects you participated in, organized or built. Try to include dates and links where possible, and feel free to link to your pre/post survey results if you were a sprinter.
-
-Copy the format below into your own text file (.txt) or markdown file (.md) with the same title as this one, and save it in your branch and folder.
-
-Fill out the bracketed/all-caps terms with your details.
+##Meta Résumé For Mozilla Science Fellowship
 
 ###Christie Bahlai
 ###Michigan State University
@@ -65,7 +57,8 @@ Event | Location | Date | Role
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-THIMMI | Arduino  | [LINK](https://github.com/ubc-micromet/TIHMMI) | The Temperature Humidity Infrared Mobile Mapping Instrument - an opensource mobile temperature monitoring kit for the urban climate community and beyond.
+OSRR | N/A | [LINK](https://github.com/cbahlai/OSRR_course) | The Open Science and Reproducible Research Course
+RQM | N/A | [LINK](pending) | Reproducible Quantitative Methods- an instructor guide for a project-based course on open science and reproducible research methods
 
 #### CONNECTIONS
 I met with or made significant connections with the following organizations and people:
