@@ -63,11 +63,45 @@ RQM | N/A | [LINK](pending) | Reproducible Quantitative Methods- an instructor g
 #### CONNECTIONS
 I met with or made significant connections with the following organizations and people:
 
-* people
-* people
+* Anna Krystalli
+* Andrew MacDonald
+* Peter Grabitz
+* Alexandra Swanson
+* Billy Meinke
+* Robert Davey
+* Bastian Greshake
+* Fabiana Kubke
+* Phil Robertson
+* Neville Millar
+* Elise Zipkin
+* Steve Hamilton 
+* Sven Bohm
+* Kristin Briney
+* Ariel Rokum
+* Titus Brown
+* Terry McGlynn
+* Emilio Bruna
+* Mike Conley
+* Mmaki Jantjies
+* Rob Schaefer
+* Students
+	* Elizabeth Davidson
+	* Baho Eshchanov
+	* Sara Hermann
+	* Andrew Myers
+	* Logan Rowe
+	* Saisi Xue
 
-* Event:
-	* 
+* MSL- an important part of my network!
+	* Kaitlin Thaney
+	* Stephanie Wright
+	* Arliss Collins
+	* Abby Cabunoc Mayes
+	* Zannah Marsh
+	* Aurelia Moser
+	* Richard Smith-Unna
+	* Joey Lee
+	* Jason Bobe
 	*
 	*
 	*
